@@ -1,7 +1,7 @@
 {
   "name": "marvinosswald/laravel-sns-driver",
   "description": "SNS Driver for Illuminate Broadcasting Package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "autoload": {
     "psr-4": {
       "Ringtrail\\LaravelSns\\": "src"
